@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Ex21/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/0c3838d8c0814f389acd4ef5ed1126cb/artifacts
+end_time: 1778131324135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c3838d8c0814f389acd4ef5ed1126cb
+run_name: hilarious-fawn-472
+run_uuid: 0c3838d8c0814f389acd4ef5ed1126cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131310543
+status: 3
+tags: []
+user_id: West2Light

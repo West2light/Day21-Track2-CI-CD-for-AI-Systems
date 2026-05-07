@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Ex21/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/0ce1e426cbb94e5bab72c19f35c65d81/artifacts
+end_time: 1778131446713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ce1e426cbb94e5bab72c19f35c65d81
+run_name: gifted-ox-841
+run_uuid: 0ce1e426cbb94e5bab72c19f35c65d81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131424519
+status: 3
+tags: []
+user_id: West2Light

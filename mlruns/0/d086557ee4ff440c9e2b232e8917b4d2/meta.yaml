@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Ex21/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/d086557ee4ff440c9e2b232e8917b4d2/artifacts
+end_time: 1778131081374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d086557ee4ff440c9e2b232e8917b4d2
+run_name: burly-smelt-955
+run_uuid: d086557ee4ff440c9e2b232e8917b4d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131067821
+status: 3
+tags: []
+user_id: West2Light

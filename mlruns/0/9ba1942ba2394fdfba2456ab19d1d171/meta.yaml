@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Ex21/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/9ba1942ba2394fdfba2456ab19d1d171/artifacts
+end_time: 1778131260742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ba1942ba2394fdfba2456ab19d1d171
+run_name: delightful-roo-32
+run_uuid: 9ba1942ba2394fdfba2456ab19d1d171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131244563
+status: 3
+tags: []
+user_id: West2Light

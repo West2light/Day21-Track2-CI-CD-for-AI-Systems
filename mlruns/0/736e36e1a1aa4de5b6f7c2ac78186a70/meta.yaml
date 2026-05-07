@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/VinAI/Ex21/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/736e36e1a1aa4de5b6f7c2ac78186a70/artifacts
+end_time: 1778131001416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 736e36e1a1aa4de5b6f7c2ac78186a70
+run_name: bustling-shrew-763
+run_uuid: 736e36e1a1aa4de5b6f7c2ac78186a70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778130990154
+status: 3
+tags: []
+user_id: West2Light
