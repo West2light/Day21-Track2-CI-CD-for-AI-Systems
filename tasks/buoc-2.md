@@ -29,7 +29,7 @@ Thay thế `<YOUR_PROJECT>` và `<BUCKET_NAME>` bằng giá trị của bạn.
 
 ```bash
 export PROJECT=<YOUR_PROJECT>
-export BUCKET=<BUCKET_NAME>
+export BUCKET=<YOUR_BUCKET_NAME>
 
 gsutil mb -p $PROJECT -l us-central1 gs://$BUCKET
 ```

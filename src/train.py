@@ -20,6 +20,7 @@ def train(
     params: dict,
     data_path: str = "data/train_phase1.csv",
     eval_path: str = "data/eval.csv",
+    data_path2: str = "data/train_phase2.csv",
 ) -> float:
     """
     Huan luyen mo hinh va ghi nhan ket qua vao MLflow.
@@ -34,6 +35,11 @@ def train(
     """
 
     df_train = pd.read_csv(data_path)
+    # Gop them train_phase2.csv neu ton tai de tang du lieu huan luyen
+    if os.path.exists(data_path2):
+        df_train2 = pd.read_csv(data_path2)
+        df_train = pd.concat([df_train, df_train2], ignore_index=True)
+        print(f"Merged train_phase2.csv: total {len(df_train)} samples")
     df_eval = pd.read_csv(eval_path)
 
     X_train = df_train.drop(columns=["target"])
